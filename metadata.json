@@ -1,0 +1,7 @@
+{
+  "name": "CAPALIPI Construção Civil",
+  "description": "Uma plataforma de construção civil de alto padrão oferecendo serviços de engenharia, calculadoras interativas, quiz educativo e portfólio de luxo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
